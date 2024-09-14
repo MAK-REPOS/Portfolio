@@ -110,8 +110,7 @@ nav ul li a {
     padding: 1rem;
     border: 1px solid #ddd;
     box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
-    /* height: 150px; */
-    min-height: 150px;
+    min-height: 200px;
     max-height: fit-content;
 }
 
