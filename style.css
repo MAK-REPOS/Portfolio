@@ -43,6 +43,10 @@ header {
     align-items: center;
 }
 
+#P_name{
+    margin-left: 17%;
+}
+
 #profile_img{
     display: inline;
     margin-left: 25% ;
@@ -183,9 +187,14 @@ a:hover {
     #profile_container {
         width: 100%;
         margin-right: 0;
+        font-size:10px;                                                
         justify-content: center;
         align-items: center;
         text-align: center; /* Center profile section */
+    }
+
+    #P_name{
+        margin-left:0%;
     }
 
     #profile_img {
